@@ -1,1 +1,71 @@
 /*empty*/
+body {
+    font-family: "Times New Roman";
+}
+
+.alergic {
+    color: #ff5500;
+}
+
+.Margin{
+    margin-left:15px;
+}
+
+.MarginButton{
+    margin-top:20px;
+}
+
+.spaceBurgerImg{
+    padding-right: 60px;
+}
+
+.wrapper {
+    display: grid;
+    grid-gap: 300px;
+    grid-template-columns: 200px 200px 200px;
+    border: 2px dotted #ff9900;
+}
+
+
+#container{
+    height: 200px;
+    overflow:hidden;
+    border: 2px dotted #ff9900;
+
+}
+
+#headerimg{
+    width: 100%;
+    height: auto;
+    opacity: 0.7;
+}
+#headerText{
+    position = absolute;
+    margin-top: -30%;
+    margin-left:35%;
+}
+
+#idname {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/* gives color to lower and upper part of web site sections*/
+#upperPart {
+    background-color: #FFDEAD;
+    color: #8B4513;
+}
+
+#lowerPart {
+    background-color: #ADD8E6;
+    color: #8B4513;
+    border: 2px dotted #ff9900;
+
+}
+
+/*button color changes when hover over it accordning to Pseudo-classes*/
+button:hover {
+    background-color: #E9967A;
+    color: #F0FFF0;
+    cursor: pointer; /*cursor points when hover over button*/
+}

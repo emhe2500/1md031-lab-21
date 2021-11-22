@@ -1,0 +1,23 @@
+[
+  {
+    "name": "largeBurger",
+    "kCal": 200,
+    "lactose": true,
+    "gluten": false,
+    "img": "https://scontent.fbma2-1.fna.fbcdn.net/v/t1.18169-9/12715728_1538870369745225_4242224456409900910_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=9267fe&_nc_ohc=ejMZH5zd-UgAX9noJe8&_nc_ht=scontent.fbma2-1.fna&oh=893fca6b18d0e8566ece9b5e0100673c&oe=61B096B2"
+  },
+  {
+    "name": "mediumBurger",
+    "kCal": 850,
+    "lactose": false,
+    "gluten": false,
+    "img": "https://www.chicagotribune.com/resizer/ebv-gQsUlkP06j7qJ4jC9lSUse8=/800x533/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/VINFZCLKLC2VR7KJ3PMEEPVA34.jpg"
+  },
+  {
+    "name": "smallBurger",
+    "kCal": 10,
+    "lactose": false,
+    "gluten": true,
+    "img": "https://www.hyattrestaurants.com/uploaded/recipes/recipe_banner_recipe-1588851476.webp"
+  }
+]
