@@ -4,6 +4,7 @@ Before you submit the final version of your labs, make sure that your project fu
 
 ## 00 Introduction
 
+<<<<<<< HEAD
 - [X] Install an IDE on your system
 
 ## 01 Git
@@ -68,3 +69,10 @@ Your Dispatcher.vue file:
 - [ ] Display the order status to the customer and update it in the customer view if updated by the dispatcher
 - [ ] Show the order status for the customer as well.
 - [ ] Find a better visualization for what orders belong to which location on the map
+=======
+- [x] Install an IDE on your system
+
+## 01 Git
+
+- [x] Fork and clone the 1md031-lab-21 repository
+>>>>>>> f1491114b3db845aca5d7f49b7a540939ea0dbc7
